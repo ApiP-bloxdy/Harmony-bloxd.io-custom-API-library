@@ -53,7 +53,7 @@ const disk1 = harmony.createDiskH([
 ]);
 disk[8]={note: "exp_collect", interval: 1500, volume: 1, pitch: 1 }
 ```
-If you want to play the disk, use playDiskForAllH,playDiskForGroup,or playDiskSpaced
+If you want to play the disk, use playDiskForAllH,playDiskForGroupH,or playDiskSpacedH
 
 ```javascript
   const disk1 = harmony.createDiskH([
